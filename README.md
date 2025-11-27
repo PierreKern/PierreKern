@@ -13,13 +13,13 @@
 
 - 💬 Ask me about **NestJS, C, C++**
 
-- 📫 How to reach me **pierre.kern@epitech.eu**
+- 📫 How to reach me : **pierre.kern@epitech.eu**
 
-- ⚡ Fun fact **I have a toxic relationship with low-level languages**
+- ⚡ Fun fact : **I have a toxic relationship with low-level languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pierre-kern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pierre-kern" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pierre-kern-4899422a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pierre-kern" height="30" width="40" /></a>
 <a href="https://instagram.com/pierre.kern_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pierre.kern_" height="30" width="40" /></a>
 <a href="https://discord.gg/552842623765839874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="552842623765839874" height="30" width="40" /></a>
 </p>
