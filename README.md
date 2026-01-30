@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pierrekern" alt="pierrekern" /></a> </p>
 
-- 🔭 I’m currently working on [Moodify](https://github.com/PierreKern/Moodify)
+- 🔭 I’m currently working on Addee (coming soon!)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS**, **NestJS** and **Rust**
 
 - 👯 I’m looking to collaborate on **any project!**
 
